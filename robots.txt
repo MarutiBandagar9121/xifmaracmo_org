@@ -1,0 +1,8 @@
+# Xavier Institute of Financial Management and Research (XIFMAR)
+# Robots.txt - Configured for full indexing
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://xifmaracmo.org/sitemap.xml
