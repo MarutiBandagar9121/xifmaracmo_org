@@ -2,7 +2,5 @@
 # Robots.txt - Configured for full indexing
 
 User-agent: *
-Allow: /
+Disallow: /
 
-# Sitemap location
-Sitemap: https://xifmaracmo.org/sitemap.xml
